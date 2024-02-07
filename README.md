@@ -1,7 +1,29 @@
 # Additional Information
 
 ## Overview
-This GitHub account is maintained exclusively for professional showcasing and resume purposes.
+This GitHub account is maintained exclusively for resume purposes. 
+
+
+***
+
+
+## Certifications and Continuous Learning
+
+### Bloomberg Market Concepts
+_April 2023 - July 2023_
+- Achieved certification, practicing the use of Bloomberg Terminal, a key tool for financial professionals, enhancing my analytical skills in market data interpretation and application.
+
+### The Complete 2023 Web Development Bootcamp
+_January 2023 - April 2023_
+- Completed a comprehensive web development bootcamp on Udemy, where I developed hands-on experience in creating responsive websites with technologies including HTML, CSS, JavaScript, and backend frameworks.
+
+### Fundamentals of Quantitative Modeling
+_April 2023 - July 2023_
+- Gained knowledge in quantitative modeling through a specialized course on Coursera, focusing on the application of mathematical models to financial data for predictive analysis and strategy development.
+
+
+***
+
 
 ## Recognition
 
@@ -14,6 +36,10 @@ At the Defense Security Agency, I facilitated communication between DSA research
 - Translating and interpreting technical dialogues, aiding in collaborative efforts on signal intelligence and advanced antenna technologies.
 - Enhancing cross-functional team understanding of complex wireless communication systems.
 - Contributing to intelligence efforts recognized with a **Letter of Appreciation from the National Security Agency**
+
+
+***
+
 
 ## Academic Projects
 
