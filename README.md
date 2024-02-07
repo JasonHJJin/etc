@@ -9,7 +9,7 @@ This GitHub account is maintained exclusively for professional showcasing and re
 **Signals Intelligence Officer and English Interpreter**  
 _August 2017 - June 2019_
 
-During my tenure with the Defense Security Agency, I played a pivotal role in facilitating communication between DSA researchers and technicians from General Dynamics & Espy Corporation. My responsibilities included:
+At the Defense Security Agency, I facilitated communication between DSA researchers and technicians from General Dynamics & Espy Corporation. My responsibilities included:
 
 - Translating and interpreting technical dialogues, aiding in collaborative efforts on signal intelligence and advanced antenna technologies.
 - Enhancing cross-functional team understanding of complex wireless communication systems.
@@ -21,7 +21,7 @@ During my tenure with the Defense Security Agency, I played a pivotal role in fa
 **Group Project**  
 _January 2023 - May 2023_
 
-This project was a culmination of teamwork and in-depth research within the scope of Machine Learning in Finance. Key accomplishments include:
+This project demonstrated teamwork and research in applying Machine Learning to Finance. Accomplishments include:
 
 - Employing natural language processing (NLP) techniques, such as Long Short-Term Memory (LSTM) networks and Financial Bidirectional Encoder Representations from Transformers (FinBERT), to analyze the sentiment of financial news articles.
 - Leveraging deep learning frameworks, including TensorFlow and PyTorch, to interpret market trends and aid in the development of a nuanced stock market investment strategy.
