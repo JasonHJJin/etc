@@ -2,7 +2,7 @@
 
 ## Overview
 
-❗️This GitHub account, including other repositories, is maintained exclusively for resume purposes. 
+❗️This GitHub account, including other repositories, is maintained exclusively for resume purposes. I use a different GitHub account for development.
 
 ***
 
