@@ -16,7 +16,7 @@
 
 ## Recognition
 
-- **2024 UNICC x Columbia Thinkathon Competition (April 2024):** Selected as a top 5 finalist in the 2024 Global Innovation Challenge - Digital Diplomacy. As part of the finalist team, I successfully pitched our idea to a live audience in the final competition. The GIC is a small team entrepreneurial pitch competition that helps solve real-world problems, requiring creativity, problem-solving, and collaboration skills.
+- **2024 UNICC x Columbia Thinkathon Competition (April 2024):** Selected as a top 5 finalist in the 2024 Global Innovation Challenge - Digital Diplomacy.
 
 - **Defense Security Agency (Military), Seoul, South Korea (August 2017 - June 2019):** Served as a Signals Intelligence Officer and English Interpreter. Key contributions included translating technical discussions, facilitating collaborations on signal intelligence and antenna technologies with General Dynamics & Espy Corporation. My efforts were instrumental in enhancing team comprehension of complex communications systems and were recognized with a Letter of Appreciation from the National Security Agency (NSA).
 
