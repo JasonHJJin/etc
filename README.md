@@ -2,8 +2,6 @@
 
 ## Overview
 
-❗️I maintain this GitHub account and its repositories specifically for resume and portfolio purposes. My active development projects are hosted on a separate GitHub account.
-
 ***
 
 ## Certifications and Continuous Learning
@@ -27,5 +25,9 @@
 - **Machine Learning for Finance, New York, NY (January - May 2023):** Participated in a collaborative project applying Machine Learning to financial markets. We employed NLP techniques, such as LSTM networks and FinBERT, for sentiment analysis of financial news. Utilized TensorFlow and PyTorch for deep learning analysis of market trends, and processed extensive financial datasets using Python libraries (Pandas, NumPy, scikit-learn) and NLTK, with the aim of developing an advanced stock market investment strategy.
 
 ***
+
+❗️
+
+I maintain this GitHub account and its repositories specifically for resume and portfolio purposes. My active development projects are hosted on a separate GitHub account.
 
 For more details or to discuss potential opportunities, please don't hesitate to contact me.
