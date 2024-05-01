@@ -1,4 +1,4 @@
-# Additional Information
+# Additional Information ✅
 
 ## Overview
 
@@ -30,4 +30,4 @@
 
 I maintain this GitHub account and its repositories specifically for resume and portfolio purposes. My active development projects are hosted on a separate GitHub account.
 
-For more details or to discuss potential opportunities, please don't hesitate to contact me.
+For more details or to discuss potential opportunities, please don't hesitate to contact me. Thank you.
