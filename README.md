@@ -2,7 +2,7 @@
 
 ## Overview
 
-❗️This GitHub account, including other repositories, is maintained exclusively for resume purposes. I use a different GitHub account for development.
+❗️I maintain this GitHub account and its repositories specifically for resume and portfolio purposes. My active development projects are hosted on a separate GitHub account.
 
 ***
 
@@ -28,4 +28,4 @@
 
 ***
 
-For further details or inquiries, please do not hesitate to contact me.
+For more details or to discuss potential opportunities, please don't hesitate to contact me.
