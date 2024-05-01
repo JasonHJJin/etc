@@ -14,7 +14,7 @@
 
 ***
 
-## Recognition
+## Key Milestones
 
 - **2024 UNICC x Columbia Thinkathon Competition (April 2024):** Selected as a top 5 finalist in the 2024 Global Innovation Challenge - Digital Diplomacy.
 
