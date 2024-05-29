@@ -28,4 +28,4 @@
 
 ❗️
 
-This repository is for resume and portfolio purposes! THank you.
+This repository is for resume and portfolio purposes! Thank you.
